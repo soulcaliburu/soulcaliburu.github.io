@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>我的博客分类 on Anzital</title>
-        <link>https://github.com/soulcaliburu/.github.io/categories/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%86%E7%B1%BB/</link>
+        <link>https://soulcaliburu.github.io/categories/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%86%E7%B1%BB/</link>
         <description>Recent content in 我的博客分类 on Anzital</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Tue, 18 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/soulcaliburu/.github.io/categories/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%86%E7%B1%BB/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 18 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://soulcaliburu.github.io/categories/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%86%E7%B1%BB/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>我的第一篇博客</title>
-        <link>https://github.com/soulcaliburu/.github.io/posts/hello/</link>
+        <link>https://soulcaliburu.github.io/posts/hello/</link>
         <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
         
-        <guid>https://github.com/soulcaliburu/.github.io/posts/hello/</guid>
+        <guid>https://soulcaliburu.github.io/posts/hello/</guid>
         <description>&lt;p&gt;这是我的第一篇博客&lt;/p&gt;
 </description>
         </item>

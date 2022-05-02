@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/soulcaliburu/.github.io/ar/categories/</loc>
+    <loc>https://soulcaliburu.github.io/ar/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/soulcaliburu/.github.io/categories/"
+                href="https://soulcaliburu.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://github.com/soulcaliburu/.github.io/zh-cn/categories/"
+                href="https://soulcaliburu.github.io/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://github.com/soulcaliburu/.github.io/ar/categories/"
+                href="https://soulcaliburu.github.io/ar/categories/"
                 />
   </url><url>
-    <loc>https://github.com/soulcaliburu/.github.io/ar/tags/</loc>
+    <loc>https://soulcaliburu.github.io/ar/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/soulcaliburu/.github.io/tags/"
+                href="https://soulcaliburu.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://github.com/soulcaliburu/.github.io/zh-cn/tags/"
+                href="https://soulcaliburu.github.io/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://github.com/soulcaliburu/.github.io/ar/tags/"
+                href="https://soulcaliburu.github.io/ar/tags/"
                 />
   </url><url>
-    <loc>https://github.com/soulcaliburu/.github.io/ar/</loc>
+    <loc>https://soulcaliburu.github.io/ar/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/soulcaliburu/.github.io/"
+                href="https://soulcaliburu.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://github.com/soulcaliburu/.github.io/zh-cn/"
+                href="https://soulcaliburu.github.io/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://github.com/soulcaliburu/.github.io/ar/"
+                href="https://soulcaliburu.github.io/ar/"
                 />
   </url>
 </urlset>
